@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="589"
+     inkscape:cx="587.5"
      inkscape:cy="338"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:pageshadow="2" />
@@ -275,7 +275,10 @@
      style="display:inline">
     <g
        id="g1290"
-       transform="translate(0.19915771,-9.0244733)">
+       transform="translate(0.19915771,-9.0244733)"
+       inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-slides/images/tdd-actual.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
          id="rect2539-93"
          width="59.705402"
@@ -308,7 +311,10 @@
            inkscape:label="tspan4263">Write a test</tspan></text>
     </g>
     <g
-       id="g1296">
+       id="g1296"
+       inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-slides/images/tdd-actual.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
          id="rect2539-93-7"
          width="59.705402"
@@ -348,7 +354,10 @@
        y="138.73224"
        style="display:inline;fill:#1f1f1f;fill-opacity:1;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11089-3-2)"
        ry="3.8641386"
-       inkscape:label="rect-red-shadow" />
+       inkscape:label="rect-red-shadow"
+       inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-slides/images/tdd-actual.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <rect
        id="rect2539-53-2"
        width="59.705402"
@@ -357,13 +366,19 @@
        y="137.9041"
        style="display:inline;fill:#ff9600;fill-opacity:1;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        ry="3.8641386"
-       inkscape:label="rect-red" />
+       inkscape:label="rect-red"
+       inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-slides/images/tdd-actual.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="249.09036"
        y="148.65385"
-       id="text4261-5-7"><tspan
+       id="text4261-5-7"
+       inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-slides/images/tdd-actual.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          style="text-align:center;text-anchor:middle;display:inline;stroke-width:0.264583"
          x="249.09036"
@@ -380,7 +395,10 @@
        id="g15150"
        transform="translate(-49.614953,22.294406)"
        inkscape:label="g-green"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-slides/images/tdd-actual.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
          id="rect2539-93-4"
          width="59.705402"
@@ -418,7 +436,10 @@
     </g>
     <g
        id="g9945"
-       transform="translate(-122.09427,-13.635004)">
+       transform="translate(-122.09427,-13.635004)"
+       inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-slides/images/tdd-actual.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
          id="rect2539-93-4-5"
          width="59.705402"
@@ -462,14 +483,16 @@
       </g>
     </g>
     <g
-       id="g9853"
-       transform="translate(-122.13134,-14.819695)">
+       id="g2053"
+       inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-slides/images/tdd-actual.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
          id="rect2539-93-4-5-2"
          width="59.705402"
          height="24.7054"
-         x="202.34833"
-         y="74.49704"
+         x="80.216988"
+         y="59.677345"
          style="display:inline;fill:#1f1f1f;fill-opacity:1;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11089-7-3-9)"
          ry="3.8641386"
          inkscape:label="rect-green-shadow"
@@ -480,9 +503,9 @@
          id="rect2539-5-3-7"
          width="59.705002"
          height="24.7054"
-         x="201.46617"
-         y="73.6689"
-         style="display:inline;fill:#00ff30;fill-opacity:1;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="79.334831"
+         y="58.849205"
+         style="display:inline;fill:#ffe700;fill-opacity:1;stroke:#000000;stroke-width:0.294599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          ry="3.8641386"
          inkscape:label="rect-green"
          inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-1/slides/images/tdd-actual.png"
@@ -491,28 +514,31 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="231.28615"
-         y="84.087524"
+         x="109.15481"
+         y="69.26783"
          id="text4261-6-5-0"
          inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-1/slides/images/tdd-actual.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"><tspan
            sodipodi:role="line"
            style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="231.28615"
-           y="84.087524"
+           x="109.15481"
+           y="69.26783"
            id="tspan4263-5-2-9">Look for</tspan><tspan
            sodipodi:role="line"
            style="text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="231.28615"
-           y="92.906975"
+           x="109.15481"
+           y="78.08728"
            id="tspan2455">smells</tspan></text>
     </g>
     <g
        id="g15150-7"
        transform="translate(-122.49271,-13.836778)"
        inkscape:label="g-green"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-slides/images/tdd-actual.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
          d="m 302.2539,48.68294 c 13.55431,3.63643 14.7679,4.019002 15.65954,23.032195"
@@ -599,7 +625,10 @@
        id="g15150-6"
        transform="translate(-10.406978,-61.95419)"
        inkscape:label="g-green"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/joe.schmetzer/workspace/dojo/code-dojo-slides/images/tdd-actual.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <rect
          id="rect2539-93-4-0"
          width="59.705402"
