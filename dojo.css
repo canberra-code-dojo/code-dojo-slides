@@ -5,7 +5,7 @@
 .reveal-viewport {
   background: #fff;
   background-color: var(--r-background-color);
-  background-image: url(images/tower-background.jpg);
+  background-image: url(images/tower-background.png);
   background-position: bottom left;
   background-repeat: no-repeat;
   background-size: 33%;
